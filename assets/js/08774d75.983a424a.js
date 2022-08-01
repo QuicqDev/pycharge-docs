@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpycharge=self.webpackChunkpycharge||[]).push([[6397],{9112:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/pycharge-docs/blog/tags/facebook","allTagsPath":"/pycharge-docs/blog/tags","count":1}')}}]);
